@@ -1,4 +1,3 @@
-This competition was organized by Child Mind Institute in partnetship with Kaggle, and is sponsored by Dell Technologies and NVIDIA
 
 The goal of this competition is to develop a predictive model that analyzes children's physical activity and fitness data to identify early signs of problematic internet use. Identifying these patterns can help trigger interventions to encourage healthier digital habits.
 
@@ -12,3 +11,4 @@ Parquet files from Actigraphy-> Performed Autoencoders to extract features from 
 
 Finally, stacking four tree based models into a logistic regression model yielded accuracy score of 0.71 on training set and 0.61 on test set which is very good performance considering the amount of missing values and labels. 
  
+This competition was organized by Child Mind Institute in partnetship with Kaggle, and is sponsored by Dell Technologies and NVIDIA
